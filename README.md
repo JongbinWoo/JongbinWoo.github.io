@@ -1,2 +1,2 @@
 # JongbinWoo.github.io
-Blog
+Github Blog
