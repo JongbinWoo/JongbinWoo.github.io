@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: JongBin
-subtitle: "머신러닝 개발 수학"
+title: JB's Blog
+subtitle: "딥러닝 관련된 내용을 주로 다룹니다"
 email: wjb1218@gmail.com
 name: JongBin Woo
 description: >
@@ -21,7 +21,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://jongbinwoo.github.io/" # the base hostname & protocol for your site
 cover: "/assets/tcw-wallpaper-02.jpg"
-logo: "/assets/logo.png"
+logo: "/assets/mlp.png"
 
 # Build settings
 markdown: kramdown
