@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JB's Blog</title>
-    <description>A simple yet classy theme for your Jekyll website or blog.
-</description>
+    <description>기록</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Apr 2021 02:18:23 +0900</pubDate>
-    <lastBuildDate>Sun, 18 Apr 2021 02:18:23 +0900</lastBuildDate>
+    <pubDate>Sun, 18 Apr 2021 15:49:44 +0900</pubDate>
+    <lastBuildDate>Sun, 18 Apr 2021 15:49:44 +0900</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -15,9 +14,11 @@
         <description>
 </description>
         <pubDate>Sun, 18 Apr 2021 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/2021/04/18/test.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/04/18/test.html</guid>
+        <link>http://localhost:4000/deep%20learning/2021/04/18/test.html</link>
+        <guid isPermaLink="true">http://localhost:4000/deep%20learning/2021/04/18/test.html</guid>
         
+        
+        <category>Deep Learning</category>
         
       </item>
     
